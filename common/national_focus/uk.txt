@@ -9595,7 +9595,7 @@ focus_tree = {
 
 		available = {
 			SPR = {
-				has_civil_war = NO 
+				has_civil_war = no
 			}
 		}
 
