@@ -10,6 +10,7 @@ technology_categories = {
 	all_armour
 	armor
 	tank_upgrade
+	cat_fortification
 	cat_light_armor
 	cat_light_td
 	cat_light_art
@@ -99,6 +100,7 @@ technology_categories = {
 	logistics_tech
 	signal_company_tech
 	maintenance_company_tech
+	naval_artillery
 	naval_mines
 	concentrated_industry_category
 	dispersed_industry_category
